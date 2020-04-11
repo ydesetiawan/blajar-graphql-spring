@@ -94,9 +94,8 @@ Select:
 -   Spring Boot 2.2.x
 
 For the project metadata we use:
-
--   Group:  `com.graphql-java.tutorial`
--   Artifact:  `book-details`
+-   Group:  `id.blajar`
+-   Artifact:  `blajar-graphql-spring`
 
 As dependency, we just select  `Web`.
 
