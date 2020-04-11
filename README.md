@@ -1,4 +1,4 @@
-# GraphQL in 3 minutes
+# BLajar Graphql Spring Boot
 GraphQL is a query language to retrieve data from a server. It is an alternative to REST, SOAP or gRPC in some way.
 
 Let’s suppose we want to query the details for a specific book from a online store backend.
